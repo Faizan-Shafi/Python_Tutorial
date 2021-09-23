@@ -1,4 +1,13 @@
 """
+##############################################
+# I ALSO HAVE TO ADD THIS CODE TO GITHUB NOW
+# I AM CHANGING THE CODE AND PUSH IT TO GITHUB
+##############################################
+
+
+
+
+
 character_name = "Luka"
 character_age = "40"
 is_male = False
